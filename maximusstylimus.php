@@ -1,9 +1,9 @@
-@import url("./cmp/wcv.css");
-@import url("./cmp/rpz.css");
-@import url("./cmp/ans.css");
-@import url("./cmp/vti.css");
-@import url("./cmp/cnr.css");
-@import url("./cmp/smn.css");
+@import url("./clan.css");
+@import url("./aggro.css");
+@import url("./gzks.css");
+@import url("./npc.css");
+@import url("./runenpuzzle.css");
+@import url("./waffen.css");
 .framebannerbg 		{ background-color: #C85424; background-image: url(images/bannerbg2.jpg); border-bottom: 1px solid #000000; }
 /* BETTER SUNFIRE */
 /* Stylegenerator v 0.1 by sniGG */
